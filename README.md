@@ -5,7 +5,7 @@
 
 An android application system for online food ordering and table reservations with real-time updates through firebase.
 
-TheCafe is the customer end application while The Cafe Handler is for the Restraunt Manager/Owners
+TheCafe is the customer end application while The Cafe Handler is for the Restaurant Manager/Owners
 
 TheCafe app is powered with firebase from firebaseAuth to realtime database 
 and Firebase Cloud-Messaging are the backbone of this project.
